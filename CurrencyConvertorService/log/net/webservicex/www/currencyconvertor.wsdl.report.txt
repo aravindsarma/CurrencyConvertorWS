@@ -1,0 +1,22 @@
+
+
+Importing file: D:\Aravind\sandbox\Assignments\webservice\currencyconvertor.wsdl
+
+The WSDL import will proceed with bindings CurrencyConvertorSoap.
+Creating wsdl schema document for file:///D:/Aravind/sandbox/Assignments/webservice/currencyconvertor.wsdl.
+Parsing wsdl binding {http://www.webserviceX.NET/}CurrencyConvertorSoap.
+Parsing wsdl binding input ConversionRate.
+Parsing wsdl binding output ConversionRate.
+Processing doc style for operation ConversionRate.
+Populating WSDL schema currencyconvertor.xsd.
+Creating file currencyconvertor.xsd in the workspace.
+Creating file currencyconvertor_InlineSchema1.xsd in the workspace.
+Copying source WSDL currencyconvertor.wsdl to currencyconvertor.wsdl.
+
+Elapsed time processing this message definition file: 0.548 seconds
+Number of warnings for this message definition file: 0
+
+
+Number of files processed: 1
+
+
